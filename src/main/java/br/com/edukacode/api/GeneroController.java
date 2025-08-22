@@ -11,8 +11,7 @@ public class GeneroController {
 
     @GetMapping
     public String listar(){
-        return "listando generos ";
-    }
+        return "Listando generos ";
 
+    }
 }
- 

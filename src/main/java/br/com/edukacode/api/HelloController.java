@@ -13,7 +13,7 @@ public class HelloController {
     @GetMapping
 
     public String mostrarMensagem(){
-        return "Hello, World!!";
+        return "Hello, World!";
     }
 
     @PostMapping
